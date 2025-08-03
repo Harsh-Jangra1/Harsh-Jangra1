@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Harsh 👋
 
-<!--
-**Harsh-Jangra1/Harsh-Jangra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 BCA Student at Jagannath University
+- 💻 Passionate about Frontend Development (HTML, CSS, JavaScript)
+- 🚀 Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- Git, GitHub
+- Bootstrap, Tailwind CSS
+- Learning ReactJS
+  
+## Projects
+- [To Do List Web App](https://to-do-list-de6c1.web.app)
+- [Calculator App](https://calculator-b3360.web.app)
+- [Tic Tac Toe Game](https://tic-tac-toe-c3940.web.app)
+- [Pig Game]
+- [Guess the Number Game]
+- [Portfolio Website]
+  
+## Contact Me
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/harsh-jangra-fd)
+- Email:harshjangra021@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thanks for visiting my profile!
+
