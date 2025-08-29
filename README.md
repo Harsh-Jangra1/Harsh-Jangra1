@@ -12,15 +12,15 @@
 - Learning ReactJS
   
 ## Projects
-- [To Do List Web App](https://to-do-list-de6c1.web.app)
-- [Calculator App](https://calculator-b3360.web.app)
-- [Tic Tac Toe Game](https://tic-tac-toe-c3940.web.app)
+- [To Do List Web App]
+- [Calculator App]
+- [Tic Tac Toe Game]
 - [Pig Game]
 - [Guess the Number Game]
 - [Portfolio Website]
   
 ## Contact Me
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/harsh-jangra-fd)
+- LinkedIn: [linkedin.com/in/harsh-jangra-fd](https://linkedin.com/in/harsh-jangra-fd)
 - Email:harshjangra021@gmail.com
 
 ---
